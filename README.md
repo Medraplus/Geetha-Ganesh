@@ -28,10 +28,12 @@
     margin-right: auto;
 }
 .icon {
-    border-radius: 50%;
-  display: block;
     width: 50px;
 }
+  .icon_image {
+   border-radius: 50%;
+  display: block;
+  }
 .content {
     flex-grow: 1;
     padding: 1% 1% 1% 10%;
