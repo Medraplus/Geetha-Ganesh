@@ -33,7 +33,7 @@
 .content {
     background-color:#7887AB;
     flex-grow: 1;
-    padding: 3%;
+    padding: 1%;
     font-size: 18px;
 }
 
