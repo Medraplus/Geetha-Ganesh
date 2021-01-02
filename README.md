@@ -37,17 +37,20 @@
     padding: 1% 1% 1% 10%;
     font-size: 18px;
 }
+.intro {
+padding: 0% 2%;
+}
 
 </style>
 </head>
 <body>
 
 <br>
-<img class="geetha_image" src="1.jpg" alt="Avatar" style="width:150px">
-<br>
+<div class="intro">
 <div class="geetha"><b>Geetha Ganesh</b></div>
 <div class="designation"><b>Regulatory affairs Director</b></div>
 <div class="location">Medra+ Pte Ltd, Singapore and Medraplus LLC, USA</div>
+</div>
 <br>
 <div class="container">
     <div class="icon"><img class="geetha_image" src="phone.jpg" alt="Avatar" style="width:100%"></div>
