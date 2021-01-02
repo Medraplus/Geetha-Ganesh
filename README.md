@@ -47,7 +47,7 @@ padding: 0% 2%;
 <body>
 
 <br>
-<img class="geetha_image" src="img_avatar.png" alt="Avatar" style="width:150px">
+<img class="geetha_image" src="1.jpg" alt="Geetha" style="width:150px">
 <br>
 <div class="intro">
 <div class="geetha"><b>Geetha Ganesh</b></div>
@@ -62,8 +62,7 @@ padding: 0% 2%;
 <br>
 <div class="container">
     <div class="icon"><img class="icon_image" src="mail.png" alt="Avatar" style="width:100%"></div>
-    <div class="content"><b><p><a href="mailto:geetha@medraplus.com">geetha@medraplus.com</a></p>
-<p><a href="mailto:regulatory@medraplus.com">regulatory@medraplus.com</a></p></b></div>
+    <div class="content"><b><a href="mailto:geetha@medraplus.com">geetha@medraplus.com</a> / <a href="mailto:regulatory@medraplus.com">regulatory@medraplus.com</a></b></div>
 </div>
 <br>
 <div class="container">
