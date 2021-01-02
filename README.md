@@ -60,12 +60,12 @@ padding: 0% 2%;
 </div>
 <br>
 <div class="container">
-    <div class="icon"><img class="icon_image" src="phone.jpg" alt="Avatar" style="width:100%"></div>
+    <div class="icon"><img class="icon_image" src="phone.jpg" alt="Avatar"></div>
     <div class="content"><b><a href="tel:+65 91357048">+65 91357048</a></b></div>
 </div>
 <br>
 <div class="container">
-    <div class="icon"><img class="icon_image" src="mail.png" alt="Avatar" style="width:100%"></div>
+    <div class="icon"><img class="icon_image" src="mail.png" alt="Avatar"></div>
   <div class="content">
     <b><p><a href="mailto:geetha@medraplus.com">geetha@medraplus.com</a></p>
     <p><a href="mailto:regulatory@medraplus.com">regulatory@medraplus.com</a></p></b>
