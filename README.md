@@ -64,13 +64,13 @@ background-color: #0d2034;
 }
 
 .com_name {
-margin: auto;
+margin: 0 !important;
 font-weight: bold;
 font-size: 17px;
 }
 
 .com_address {
-margin: auto;
+margin: 0 !important;
 }
 </style>
 </head>
