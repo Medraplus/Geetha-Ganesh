@@ -21,25 +21,30 @@
   text-align:center;
   font-size: 14px;
 }
-.container {    
+
+.container {
+    background-color:#2E4272;
     display:flex;
     width: 80%;
-    margin-left: auto;
-    margin-right: auto;
+  
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 .icon {
+    background-color:#4F628E;
     width: 50px;
 }
-  .icon_image {
-   border-radius: 50%;
-  display: block;
-  }
 .content {
+    background-color:#7887AB;
     flex-grow: 1;
     padding: 1% 1% 1% 10%;
     font-size: 18px;
+    width: auto;
 }
-
+.intro {
+padding: 0% 2%;
+}
 
 </style>
 </head>
