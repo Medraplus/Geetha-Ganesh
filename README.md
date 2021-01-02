@@ -43,7 +43,8 @@
     width: auto;
 }
 .intro {
-padding: 0% 2%;
+  margin: auto;
+  width: 60%;
 }
 
 </style>
@@ -57,7 +58,7 @@ padding: 0% 2%;
 <div class="geetha"><b>Geetha Ganesh</b></div>
 <div class="designation"><b>Regulatory affairs Director</b></div>
 <div class="location">Medra+ Pte Ltd, Singapore and Medraplus LLC, USA</div>
-</div>
+
 <br>
 <div class="container">
     <div class="icon"><img class="icon_image" src="phone.jpg" alt="Avatar"></div>
@@ -92,6 +93,6 @@ padding: 0% 2%;
     <div class="content"><b>Dynamically sized content</b></div>
 </div>
 
-
+</div>
 </body>
 </html> 
