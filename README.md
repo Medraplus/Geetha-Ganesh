@@ -29,7 +29,8 @@
     margin-right: auto;
 }
 .icon {
-   
+    border-radius: 50%;
+  display: block;
     width: 50px;
 }
 .content {
@@ -46,6 +47,8 @@ padding: 0% 2%;
 <body>
 
 <br>
+<img class="geetha_image" src="img_avatar.png" alt="Avatar" style="width:150px">
+<br>
 <div class="intro">
 <div class="geetha"><b>Geetha Ganesh</b></div>
 <div class="designation"><b>Regulatory affairs Director</b></div>
@@ -53,7 +56,7 @@ padding: 0% 2%;
 </div>
 <br>
 <div class="container">
-    <div class="icon"><img class="geetha_image" src="phone.jpg" alt="Avatar" style="width:100%"></div>
+    <div class="icon"><img class="icon_image" src="phone.jpg" alt="Avatar" style="width:100%"></div>
     <div class="content"><b><a href="tel:+65 91357048">+65 91357048</a></b></div>
 </div>
 <br>
