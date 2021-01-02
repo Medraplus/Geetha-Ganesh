@@ -21,7 +21,6 @@
   text-align:center;
   font-size: 14px;
 }
-
 .container {    
     display:flex;
     width: 80%;
