@@ -49,7 +49,7 @@
 <div class="location">Medra+ Pte Ltd, Singapore and Medraplus LLC, USA</div>
 <br>
 <div class="container">
-    <div class="icon"><img class="geetha_image" src="img_avatar.png" alt="Avatar" style="width:100%"></div>
+    <div class="icon"><img class="geetha_image" src="phone.png" alt="Avatar" style="width:100%"></div>
     <div class="content"><b>Dynamically sized content</b></div>
 </div>
 <br>
