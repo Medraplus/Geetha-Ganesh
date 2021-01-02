@@ -37,9 +37,7 @@
     padding: 1% 1% 1% 10%;
     font-size: 18px;
 }
-.intro {
-padding: 0% 2%;
-}
+
 
 </style>
 </head>
