@@ -74,7 +74,6 @@ display: block;
     <p><a href="mailto:regulatory@medraplus.com">regulatory@medraplus.com</a></p></b>
   </div>
 </div>
-<br>
 <div class="container">
     <div class="icon"><img class="icon_image" src="web.png" alt="Avatar"></div>
     <div class="content"><b><a href="http://medrasg.com/">Medra+ Pte Ltd</a></b></div>
