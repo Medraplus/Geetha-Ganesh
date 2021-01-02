@@ -43,7 +43,7 @@
 <body>
 
 <br>
-<img class="geetha_image" src="img/1.jpg" alt="Avatar" style="width:150px">
+<img class="geetha_image" src="1.jpg" alt="Avatar" style="width:150px">
 <br>
 <div class="geetha"><b>Geetha Ganesh</b></div>
 <div class="designation"><b>Regulatory affairs Director</b></div>
