@@ -49,7 +49,29 @@ display: block;
  
 }
 .medra_address {
-background-color: orange;
+background-color: #0d2034;
+    display: flex;
+    color: white;
+    font-size: 12px;
+        padding: 1%;
+}
+.medra_logo {
+width: 50%;
+    height: 50%;
+   padding: 2%;
+}
+.address {
+
+}
+
+.com_name {
+margin: 0%;
+font-weight: bold;
+font-size: 17px;
+}
+
+.com_address {
+margin: 0%;
 }
 </style>
 </head>
@@ -83,7 +105,7 @@ background-color: orange;
 <br>
 
 <div class="medra_address">
-  <div class="medra_logo"><img class="icon_image" src="web.png" alt="Avatar"></div>
+  <div class="medra_logo"><img src="web.png" alt="Avatar"></div>
   <div class="address">
     <p class="com_name">Medra+ Pte Ltd, Singapore</p>
     <p class="com_address">#7030, Ang Mo Kio Ave 5, #08-80, Northstar@AMK</p><br>
