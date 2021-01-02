@@ -31,7 +31,7 @@
   margin-right: auto;
   
 }
-.icon {
+.icon_image {
    border-radius: 50%;
 width: 50px;
 }
