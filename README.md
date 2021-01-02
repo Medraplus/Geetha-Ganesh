@@ -23,18 +23,17 @@
 }
 
 .container {
-    background-color:#2E4272;
+    
     display:flex;
     width: 80%;
     margin-left: auto;
     margin-right: auto;
 }
 .icon {
-    background-color:#4F628E;
+   
     width: 50px;
 }
 .content {
-    background-color:#7887AB;
     flex-grow: 1;
     padding: 1% 1% 1% 10%;
     font-size: 18px;
