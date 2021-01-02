@@ -22,8 +22,7 @@
   font-size: 14px;
 }
 
-.container {
-    
+.container {    
     display:flex;
     width: 80%;
     margin-left: auto;
@@ -52,7 +51,7 @@
 <br>
 <div class="container">
     <div class="icon"><img class="geetha_image" src="phone.jpg" alt="Avatar" style="width:100%"></div>
-    <div class="content"><b>Dynamically sized content</b></div>
+    <div class="content"><b><a href="tel:+65 91357048">+65 91357048</a></b></div>
 </div>
 <br>
 <div class="container">
