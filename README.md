@@ -40,7 +40,7 @@ display: block;
 .content {
     width: 50%;
     flex-grow: 1;
-    padding: 1% 1% 1% 10%;
+    padding: 3% 1% 1% 10%;
     font-size: 18px;
   
 }
@@ -48,7 +48,9 @@ display: block;
   margin: auto;
  
 }
-
+.medra_address {
+background-color: orange;
+}
 </style>
 </head>
 <body>
@@ -80,7 +82,16 @@ display: block;
 </div>
 <br>
 
-
+<div class="medra_address">
+  <div class="medra_logo"><img class="icon_image" src="web.png" alt="Avatar"></div>
+  <div class="address">
+    <p class="com_name">Medra+ Pte Ltd, Singapore</p>
+    <p class="com_address">#7030, Ang Mo Kio Ave 5, #08-80, Northstar@AMK</p><br>
+      <p class="com_name">Medraplus LLC, USA</p>
+    <p class="com_address">8 The Green STE A, Dover, DE 19901</p>
+  </div>
+   </div>
+   
 </div>
 </body>
 </html> 
