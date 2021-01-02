@@ -56,7 +56,8 @@
 <br>
 <div class="container">
     <div class="icon"><img class="geetha_image" src="img_avatar.png" alt="Avatar" style="width:100%"></div>
-    <div class="content"><b>Dynamically sized content</b></div>
+    <div class="content"><b><p><a href="mailto:geetha@medraplus.com">geetha@medraplus.com</a></p>
+<p><a href="mailto:regulatory@medraplus.com">regulatory@medraplus.com</a></p></b></div>
 </div>
 <br>
 <div class="container">
