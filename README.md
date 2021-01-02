@@ -104,7 +104,7 @@ margin: auto;
 <br>
 
 <div class="medra_address">
-  <div class="medra_logo"><img width="173" height="180" style="max-width: 100%; height: auto;" src="web.png" alt="Avatar"></div>
+  <div class="medra_logo"><img width="173" height="180" style="max-width: 100%; height: auto;" src="medralogo.png" alt="Avatar"></div>
   <div class="address">
     <p class="com_name">Medra+ Pte Ltd, Singapore</p>
     <p class="com_address">#7030, Ang Mo Kio Ave 5, #08-80, Northstar@AMK</p><br>
