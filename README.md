@@ -60,7 +60,7 @@ background-color: #0d2034;
    padding: 2%;
 }
 .address {
-
+padding: 2% 2% 2% 0;
 }
 
 .com_name {
