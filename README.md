@@ -44,7 +44,7 @@
 }
 .intro {
   margin: auto;
-  width: 60%;
+  width: 100%;
 }
 
 </style>
