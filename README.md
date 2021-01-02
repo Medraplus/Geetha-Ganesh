@@ -40,7 +40,7 @@ display: block;
 .content {
     width: 50%;
     flex-grow: 1;
-    padding: 3% 1% 1% 10%;
+    padding: 1% 1% 1% 10%;
     font-size: 18px;
   
 }
